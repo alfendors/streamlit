@@ -1,3 +1,3 @@
 # streamlit
 K-Means Clustering
-http://localhost:8501/
+app url : http://localhost:8501/
